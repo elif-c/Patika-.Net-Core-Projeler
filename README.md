@@ -1,0 +1,2 @@
+# Patika-.Net-Core-Projeler
+ 
