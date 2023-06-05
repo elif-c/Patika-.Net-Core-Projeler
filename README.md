@@ -1,2 +1,2 @@
-# Patika-.Net-Core-Projeler
+# Patika-.Net-Core-WebAPI
  
